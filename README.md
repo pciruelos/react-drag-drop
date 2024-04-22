@@ -1,3 +1,3 @@
 # React Drag and drop
 
-This project is a simple React application that allows users to upload images via drag and drop or file selection. The uploaded images are then sent to Cloudinary, a cloud-based image management service, for storage and retrieval.
+This project is a React application that allows users to upload images to a slider via a drag-and-drop interface. The uploaded images are stored in Cloudinary, a cloud-based image management service, and displayed in an image slider.
